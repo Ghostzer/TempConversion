@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Convertisseur température</string>
+    <string name="txtNombre">Entrer un nombre</string>
+    <string name="btnConvert">Convertir</string>
+    <string name="btnClear">Effacer</string>
+</resources>
